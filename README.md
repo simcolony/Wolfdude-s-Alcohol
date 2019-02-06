@@ -3,7 +3,8 @@ Wolfdude's Alcohol mod
 Mod ทำให้เมาเหล้า
 
 Wolfdude's Alcohol mod แปลไทย
-| Doenload  | LINK |
+
+| Download  | LINK |
 | ------------- | ------------- |
 |  Wolfdude's Alcohol | [Wolfdude's Alcohol mod Thai](https://github.com/simcolony/Wolfdude-s-Alcohol/raw/master/hang.7z) |
 
